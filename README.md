@@ -1,5 +1,8 @@
 # youling
 ##YouLing
+
+![alt text](https://raw.githubusercontent.com/peterburk/youling/master/Icon/YouLing.png "YouLing Logo")
+
 "You have QQ?" The World Wide Web should be international. Single-language websites restrict the power of the Web. Google Translate helps, but requires copy-pasting. Can’t read your Facebook news feed? Want to join QQ?
 
 Enter YouLing.
@@ -10,7 +13,7 @@ Mouse-over a piece of text anywhere on your computer, and it will automatically 
  
 
 The latest version is available here:
-https://github.com/peterburk/youling/blob/master/YouLing.zip
+https://raw.githubusercontent.com/peterburk/youling/master/YouLing.zip
 
 Last software update: 7 August 2014
 
@@ -22,8 +25,7 @@ Last website update: 5 October 2015
 
 ##Developers
 Source code is now available.
-
-https://github.com/peterburk/youling/blob/master/Source.zip
+https://raw.githubusercontent.com/peterburk/youling/master/Source.zip
 
 ##Operation
 
