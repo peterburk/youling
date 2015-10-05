@@ -1,7 +1,6 @@
-# youling
-##YouLing
+# YouLing
 
-![alt text](https://raw.githubusercontent.com/peterburk/youling/master/Icon/YouLing.png "YouLing Logo")
+<img class="aligncenter" alt="YouLing Logo" src="https://raw.githubusercontent.com/peterburk/youling/master/Icon/YouLing.png" width="128">
 
 "You have QQ?" The World Wide Web should be international. Single-language websites restrict the power of the Web. Google Translate helps, but requires copy-pasting. Can’t read your Facebook news feed? Want to join QQ?
 
